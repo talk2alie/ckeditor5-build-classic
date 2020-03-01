@@ -107,6 +107,7 @@ ClassicEditor.defaultConfig = {
 		items: [
 			'undo',
 			'redo',
+			'|',
 			'heading',
 			'|',
 			'bold',
@@ -120,7 +121,8 @@ ClassicEditor.defaultConfig = {
 			'|',
 			'imageUpload',
 			'blockQuote',
-			'insertTable'
+			'insertTable',
+			'todoList'
 		]
 	},
 	image: {
